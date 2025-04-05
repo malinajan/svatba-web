@@ -1,3 +1,5 @@
+@use 'sass:color';
+
 /**
  * Reset some basic elements
  */
@@ -110,7 +112,7 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: adjust-color($brand-color, $lightness: -10%);
+    color: color.adjust($brand-color, $lightness: -10%);
   }
 
   &:hover {
