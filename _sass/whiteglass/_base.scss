@@ -34,6 +34,12 @@ table {
   text-align: left;
 }
 
+em {
+  color: $em-color;
+  font-style: normal;
+  font-weight: bold;
+}
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */

@@ -1,8 +1,5 @@
 @use 'sass:color';
 
-// Svatebni cervena (malinoa) #e30b5d
-// Svatebni zelena #00674f
-
 // Define defaults for each variable.
 $base-font-family: Bitter, "Apple SD Gothic Neo", "Noto Sans", "Source Han Sans", "Noto Sans CJK JP", "Source Han Sans JP", "Noto Sans CJK KR", "Source Han Sans KR", NanumBarunGothic, AppleGothic, "Malgun Gothic", Dotum, sans-serif !default;
 $monospace-font-family: Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace !default;
@@ -16,6 +13,7 @@ $spacing-unit:     30px !default;
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
 $brand-color:      #e30b5d !default; // svatebni cervena
+$em-color:         #00674f !default; // svatebni zelena
 
 $grey-color:       #757575 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 45%) !default;
