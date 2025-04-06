@@ -95,11 +95,19 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  font-weight: normal;
 
   code {
     font-size: inherit;
   }
+}
+
+h1, h2 {
+  color: $brand-color;
+}
+
+h3 {
+  font-size: 130%;
 }
 
 h1, h2, h3 {
