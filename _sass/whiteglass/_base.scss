@@ -223,3 +223,29 @@ pre {
   display: table;
   clear: both;
 }
+
+
+
+/**
+ * Button
+ */
+.btn {
+    border-radius: 0.3em;
+    border: 1px solid;
+    display: inline-block;
+    padding: 0.5em 0.75em;
+}
+
+a.btn:hover {
+    background: $brand-color;
+    color: $background-color;
+    text-decoration: none;
+}
+
+.btn-center {
+    margin: 15px auto 15px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

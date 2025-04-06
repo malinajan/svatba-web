@@ -37,7 +37,10 @@ princeznu.
 * přihláška
 * tancování NE
 * dresscode
+* barvy
 * daněk
+
+<a class="btn btn-center" href="struct">Vyplnit přihlášku</a>
 
 ## Náš příběh
 
