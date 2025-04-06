@@ -17,7 +17,7 @@ princeznu.
 
 ### Pátek 22. 8.
 
-* *Od 15:00* warm-up pro kamarády a vrstevníky: táborák, zážitkový program,
+* *Od 15:00* svatební warm-up pro kamarády a vrstevníky: táborák, zážitkový program,
   kytary, přípravy, chill, přespání (lze se připojit i později).
 
 ### Sobota 23. 8.
@@ -58,13 +58,15 @@ přihlášek.
 
 *Sobota*: poloformální oblečení, tj. košile a společenské kalhoty, může (nemusí)
 být sako. Nebo šaty libovolné délky, popř. sukně a halenka. Svatba bude laděna
-do těchto barev, takže se můžete sladit s námi, ale nevyžadujeme to. Ženy pouze
-prosíme, aby se vyhnuly bílým a hodně světlým odstínům, které jsou vyhrazeny
-jen pro nevěstu.
+do těchto barev: <span class="colorsquare" style="background-color: #e30b5d;"></span>
+<span class="colorsquare" style="background-color: #00674f;"></span>,
+takže se můžete sladit s námi, ale nevyžadujeme to.
+Ženy pouze prosíme, aby se vyhnuly bílým a hodně světlým odstínům, které jsou
+vyhrazeny jen pro nevěstu.
 
 *Pátek*: pohodlné oblečení, které byste si vzali do lesa či k ohni.
 
-### Jak se na svatbu dostanete?
+### Jak se na svatbu dostanu?
 
 1. *Autem*. Parkovat se dá přímo v areálu, parkovacích míst je dostatek.
 2. *MHD*. Nejbližší zastávky jsou Žilkova (autobusy 41 a 304, asi 1,5 km od místa
@@ -73,6 +75,10 @@ jen pro nevěstu.
    (specifikujte v přihlášce).
 
 <iframe style="border:none" src="https://mapy.com/s/nemekacohu" frameborder="0" style="width: 100%; height: 300px;"></iframe>
+
+### Přihláška
+
+Pokud se chcete svatby zúčastnit, je nutné vyplnit přihlášku!
 
 <a class="btn btn-center" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScJQ3Pk9cioMOkx28BcnVp6ohiwAvvuLUHVQq1cKhUsRk210w/viewform?usp=dialog">Vyplnit přihlášku</a>
 
