@@ -72,7 +72,7 @@ jen pro nevěstu.
    zajistíme dopravu ze zastávky, případně z jiné části Brna
    (specifikujte v přihlášce).
 
-<iframe style="border:none" src="https://mapy.com/s/nemekacohu" width="740" height="300" frameborder="0"></iframe>
+<iframe style="border:none" src="https://mapy.com/s/nemekacohu" frameborder="0" style="width: 100%; height: 300px;"></iframe>
 
 <a class="btn btn-center" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScJQ3Pk9cioMOkx28BcnVp6ohiwAvvuLUHVQq1cKhUsRk210w/viewform?usp=dialog">Vyplnit přihlášku</a>
 
