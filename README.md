@@ -12,5 +12,6 @@ $ bundle install
 
 ```bash
 $ bundle config --local path vendor
-$ bundle install --deployment
+$ bundle config set --local deployment 'true'
+$ bundle install
 ```
