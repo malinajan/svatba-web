@@ -82,6 +82,13 @@ Pokud se chcete svatby zúčastnit, je nutné vyplnit přihlášku!
 
 <a class="btn btn-center" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScJQ3Pk9cioMOkx28BcnVp6ohiwAvvuLUHVQq1cKhUsRk210w/viewform?usp=dialog">Vyplnit přihlášku</a>
 
+### Svatební dary
+
+Společné peřiny, prádlo, talíře a raclette grill už máme. Prosíme, nedávejte
+nám další. Budeme rádi za libovolný finanční příspěvek, který nám pomůže například
+uhradit náklady na svatbu. Dary preferujeme přijímat bezhotovostně, ale s přijetím
+hotovosti nemáme problém. Číslo našeho společného účtu je 2303064959/2010.
+
 ## Náš příběh
 
 Tučňák potkal vlak a dopadlo to mimořádnou událostí.
