@@ -1,0 +1,22 @@
+.gallery {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .gallery img {
+      width: 33.3333%;
+      object-fit: cover;
+      display: block;
+    }
+
+    @media (max-width: 1000px) {
+        .gallery img {
+        width: 50%;
+        }
+    }
+    @media (max-width: 768px) {
+      .gallery img {
+        width: 100%;
+      }
+}
+
