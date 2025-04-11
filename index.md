@@ -93,3 +93,15 @@ hotovosti nemáme problém. Číslo našeho společného účtu je 2303064959/20
 
 Tučňák potkal vlak a dopadlo to mimořádnou událostí.
 
+<div class="gallery">
+    <img src="img/2.png">
+    <img src="img/5.png">
+    <img src="img/7.png">
+    <img src="img/9.png">
+    <img src="img/a10.png">
+    <img src="img/a13.png">
+    <img src="img/a16.png">
+    <img src="img/a19.png">
+    <img src="img/b21.png">
+  </div>
+
