@@ -103,3 +103,10 @@ hotovosti nemáme problém. Číslo našeho společného účtu je 2303064959/20
     <img src="/img/comics/b21.png">
 </div>
 
+## Kontakt
+
+Pokud máte libovolné dotazy, můžete nám například napsat e-mail:
+
+* Honza: me<span style="display:none;">loskarlos</span>@apophis.cz
+* Verča: ver.burgerova<span style="display:none;">loskarlos</span>@gmail.com
+
