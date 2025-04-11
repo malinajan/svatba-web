@@ -89,6 +89,19 @@ nám další. Budeme rádi za libovolný finanční příspěvek, který nám po
 uhradit náklady na svatbu. Dary preferujeme přijímat bezhotovostně, ale s přijetím
 hotovosti nemáme problém. Číslo našeho společného účtu je 2303064959/2010.
 
+### Pravidla
+
+Žádáme vás o dodržování následujících pravidel na naši svatbě.
+
+1. Po každém příjezdu, odjezdu, příchodu a odchodu prosím svědomitě zavírejte
+   vstupní bránu areálu, abyste nevypustili daňka!
+2. Do areálu je zákaz vstupu psů.
+3. V areálu je zakázáno používat zábavní pyrotechniku.
+4. Hlasitou zábavu po 22:00 je možné provozovat pouze uvnitř tak, aby se nerušil
+   noční klid.
+5. Na účelové komunikaci spojující svatební areál a křižovatku ulic Terezy
+   Novákové / Žilkova platí maximální rychlost 30 km/h.
+
 ## Náš příběh
 
 <div class="gallery">
