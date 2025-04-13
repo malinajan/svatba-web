@@ -58,8 +58,11 @@ přihlášek.
 
 *Sobota*: poloformální oblečení, tj. košile a společenské kalhoty, může (nemusí)
 být sako. Nebo šaty libovolné délky, popř. sukně a halenka. Svatba bude laděna
-do těchto barev: <span class="colorsquare" style="background-color: #e30b5d;"></span>
-<span class="colorsquare" style="background-color: #00674f;"></span>,
+do těchto barev:
+<span class="colorsquare" style="background-color: #00674f"></span>
+<span class="colorsquare" style="background-color: #e30b5d"></span>
+<span class="colorsquare" style="background-color: #5e163b"></span>
+<span class="colorsquare" style="background-color: #f7b8c1"></span>,
 takže se můžete sladit s námi, ale nevyžadujeme to.
 Ženy pouze prosíme, aby se vyhnuly bílým a hodně světlým odstínům, které jsou
 vyhrazeny jen pro nevěstu.
