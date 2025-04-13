@@ -30,7 +30,7 @@ princeznu.
 
 ### Neděle 24. 8.
 
-* Úklid.
+* Úklid, odjezd.
 
 ## Důležité informace
 
@@ -112,7 +112,6 @@ hotovosti nemáme problém. Číslo našeho společného účtu je 2303064959/20
     <img src="/img/comics/5.png">
     <img src="/img/comics/7.png">
     <img src="/img/comics/9.png">
-    <img src="/img/comics/a10.png">
     <img src="/img/comics/a13.png">
     <img src="/img/comics/a16.png">
     <img src="/img/comics/a19.png">
@@ -121,8 +120,8 @@ hotovosti nemáme problém. Číslo našeho společného účtu je 2303064959/20
 
 ## Kontakt
 
-Pokud máte libovolné dotazy, můžete nám například napsat e-mail:
+Pokud cokoliv potřebujete, ozvěte se nám:
 
-* Honza: me<span style="display:none;">loskarlos</span>@apophis.cz
-* Verča: ver.burgerova<span style="display:none;">loskarlos</span>@gmail.com
-
+* Honza: me<span style="display:none;">loskarlos</span>@apophis.cz,
+* Verča: ver.burgerova<span style="display:none;">loskarlos</span>@gmail.com,
+* v den svatby: Anička Ř. (svědkyně): +420 728<span style="display:none;">loskarlos</span> 515 696.

@@ -4,17 +4,12 @@
     }
 
     .gallery img {
-      width: 33.3333%;
+      width: 50%;
       object-fit: cover;
       display: block;
     }
 
-    @media (max-width: 1000px) {
-        .gallery img {
-        width: 50%;
-        }
-    }
-    @media (max-width: 768px) {
+    @media (max-width: 800px) {
       .gallery img {
         width: 100%;
       }
