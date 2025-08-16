@@ -11,8 +11,6 @@ Můžete se těšit na víkend v obklopení přírody, rodiny, kamarádů a zn�
 dobrého jídla, daňka, na netradiční svatební tanec a hlavně na nejkrásnější
 princeznu.
 
-<a class="btn btn-center" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScJQ3Pk9cioMOkx28BcnVp6ohiwAvvuLUHVQq1cKhUsRk210w/viewform?usp=dialog">Vyplnit přihlášku</a>
-
 ## Harmonogram
 
 ### Pátek 22. 8.
@@ -81,9 +79,7 @@ vyhrazeny jen pro nevěstu.
 
 ### Přihláška
 
-Pokud se chcete svatby zúčastnit, je nutné vyplnit přihlášku!
-
-<a class="btn btn-center" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScJQ3Pk9cioMOkx28BcnVp6ohiwAvvuLUHVQq1cKhUsRk210w/viewform?usp=dialog">Vyplnit přihlášku</a>
+Přihlašování již bylo uzavřeno.
 
 ### Svatební dary
 
