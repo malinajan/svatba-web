@@ -1,17 +1,17 @@
 .gallery {
-      display: flex;
-      flex-wrap: wrap;
-    }
+  display: flex;
+  flex-wrap: wrap;
+}
 
-    .gallery img {
-      width: 50%;
-      object-fit: cover;
-      display: block;
-    }
+.gallery img {
+  width: 50%;
+  object-fit: cover;
+  display: block;
+}
 
-    @media (max-width: 800px) {
-      .gallery img {
-        width: 100%;
-      }
+@media (max-width: 800px) {
+  .gallery img {
+    width: 100%;
+  }
 }
 

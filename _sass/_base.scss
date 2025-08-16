@@ -266,3 +266,45 @@ a.btn:hover {
    display: inline-block;
 }
 
+
+/**
+ * QR code on right
+ */
+.qr-flexbox {
+  display: flex;
+}
+
+@media (max-width: 800px) {
+  .qr-flexbox {
+    flex-wrap: wrap;
+  }
+}
+
+.qr-flexbox .text {
+  width: 85%;
+  display: block;
+  margin-right: 10px;
+}
+
+@media (min-width: 800px) {
+  .qr-flexbox .text {
+    margin-right: 10px;
+  }
+}
+
+.qr-flexbox .qr {
+  width: 15%;
+  display: block;
+}
+
+@media (max-width: 800px) {
+  .qr-flexbox .text {
+    width: 100%;
+  }
+
+  .qr-flexbox .qr {
+    width: 100%;
+    padding-left: 25%;
+    padding-right: 25%;
+  }
+}

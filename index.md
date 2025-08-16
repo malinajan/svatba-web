@@ -83,10 +83,18 @@ Přihlašování již bylo uzavřeno.
 
 ### Svatební dary
 
-Společné peřiny, prádlo, talíře a raclette grill už máme. Prosíme, nedávejte
+<div class="qr-flexbox">
+<div class="text">
+<p>Společné peřiny, prádlo, talíře a raclette grill už máme. Prosíme, nedávejte
 nám další. Budeme rádi za libovolný finanční příspěvek, který nám pomůže například
 uhradit náklady na svatbu. Dary preferujeme přijímat bezhotovostně, ale s přijetím
-hotovosti nemáme problém. Číslo našeho společného účtu je 2303064959/2010.
+hotovosti nemáme problém. Číslo našeho společného účtu je 2303064959/2010.</p>
+</div>
+
+<div class="qr">
+<img src="/img/qr-payment.svg" style="width:100%;">
+</div>
+</div>
 
 ### Pravidla
 
